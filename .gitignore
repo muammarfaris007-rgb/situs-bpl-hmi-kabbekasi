@@ -1,0 +1,7 @@
+# Jangan pernah commit config.php asli (berisi kredensial database sungguhan).
+# Yang ikut di-track git hanyalah config.sample.php sebagai contoh/template.
+api/config.php
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
