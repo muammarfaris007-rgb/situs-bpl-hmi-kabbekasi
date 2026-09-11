@@ -112,3 +112,4 @@ simpan salinan folder `uploads/` — dua hal inilah yang menyimpan seluruh isi s
   di `php.ini`), minta host menaikkannya atau turunkan batas di kode jika perlu.
 - Backend ini memakai PDO MySQL — pastikan ekstensi `pdo_mysql` aktif di PHP hosting
   Anda (di cPanel modern hampir selalu sudah aktif secara default).
+
